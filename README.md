@@ -1,3 +1,3 @@
 # Java-Program
 <br>
-Author  <Atul Adakamol>
+Author Atul Adakamol
